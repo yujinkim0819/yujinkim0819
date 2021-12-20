@@ -1,5 +1,7 @@
 ## Hi there
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim0819&show_icons=true&theme=radical)
+
 ### Programming Languages
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
 <a href="" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/></a>
