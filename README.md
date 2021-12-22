@@ -1,5 +1,3 @@
-## Hi there
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kim%20ujin&fontSize=90)
 
 ### Programming Languages
