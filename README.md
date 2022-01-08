@@ -1,4 +1,3 @@
-![HitCount](http://hits.dwyl.com/dev-yakuza/react-native-image-modal.svg)
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kim%20ujin&fontSize=90)
