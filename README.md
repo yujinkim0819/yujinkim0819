@@ -12,4 +12,4 @@
 <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim0819&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/yujinkim0819/yujinkim0819&show_icons=true&theme=radical)
