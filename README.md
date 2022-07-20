@@ -13,9 +13,6 @@
   <b>🛠 Skills 🛠</b>
 </h3>
 <br/>
-<h5 align="center">
-  platforms&Languages
-</h5>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> 
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>
@@ -27,5 +24,3 @@
   <img src="https://img.shields.io/badge/Spring-CCEEFF?style=flat-square&logo=Android&logoColor=white"/>
 <br/>
 <br/>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim0819&theme=gruvbox_light&show_icons=tru
