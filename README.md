@@ -1,6 +1,14 @@
-<br/>
+<div align=center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kim%20ujin&fontSize=90&fontColor=FFFFFF" />
+</div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kim%20ujin&fontSize=90)
+<div align=center>
+
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yujinkim0819&theme=solarized)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yujinkim0819&theme=solarized)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yujinkim0819&theme=solarized)  
+</div>
+
 <h3 align="center">
   <b>🛠 Skills 🛠</b>
 </h3>
@@ -20,4 +28,4 @@
 <br/>
 <br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim0819&theme=gruvbox_light&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinkim0819&theme=gruvbox_light&show_icons=tru
