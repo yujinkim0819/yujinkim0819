@@ -6,7 +6,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yujinkim0819&theme=solarized)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yujinkim0819&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yujinkim0819&theme=solarized)
 
 </div>
 
