@@ -10,11 +10,10 @@
 
 </div>
 
----
+
 
 <h3 align="center">👋 About Me</h3>
 
----
 
 <h3 align="center">🛠 Skills 🛠</h3>
 
@@ -43,10 +42,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
 </p>
 
----
-
-
----
 
 <div align="center">
 
