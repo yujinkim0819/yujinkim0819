@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFDE7D&height=300&section=header&text=Yujin%20Kim&fontSize=90&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=BFDE7D&height=300&section=header&text=Yoojin%20Kim&fontSize=90&fontColor=FFFFFF" />
 </div>
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yoojinkim&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yujinkim0819&theme=solarized)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yujinkim0819&theme=solarized)
 
